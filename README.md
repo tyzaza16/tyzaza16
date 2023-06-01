@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi !! :open_hands: :open_hands:
+
+###  :raising_hand_man: Interest Position :technologist:
+###   - SW
+###   - Front-End (HTML, CSS, React, Next, TS)
+###   - Back-End (NodeJs/Express)
 
 <!--
 **tyzaza16/tyzaza16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
