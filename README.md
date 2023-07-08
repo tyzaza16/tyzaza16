@@ -1,8 +1,8 @@
 ## Hi !! :open_hands: :open_hands:
 
 ###  :raising_hand_man: Interest Position :technologist:
-###   - SW
-###   - Front-End (HTML, CSS, React, Next, TS)
+###   - SE Java (Spring Boot)
+###   - Front-End (HTML, CSS, React, TypeScripts)
 ###   - Back-End (NodeJs/Express)
 
 <!--
