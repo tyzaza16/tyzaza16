@@ -8,7 +8,7 @@ I've been experience in Software Engineer(Java) for 2 month now.
 
 * 🌍  I'm based in Bangkok Thailand
 * ✉️  You can contact me at [sarathorn.16@gmail.com](mailto:sarathorn.16@gmail.com)
-* 🚀  I'm currently working on [Stream I.T. Consulting Ltd.](http://www.stream.co.th/)
+* 🚀  I'm currently working on [My Senior Project]
 * 🧠  I'm learning TypeScripts, NextJS, Golang
 * 🤝  I'm open to collaborating on Web Developent Project | MicroService Project
 * ⚡  I like playing games, music, singing and eating. 🕹️🎸🎤🍿
