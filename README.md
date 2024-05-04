@@ -9,7 +9,7 @@ I've been experience in Software Engineer for 5 month now.
 * 🌍  I'm based in Bangkok Thailand
 * ✉️  You can contact me at [sarathorn.16@gmail.com](mailto:sarathorn.16@gmail.com)
 * 🚀  I'm currently working on My Senior Project
-* 🧠  I'm learning Solidity, Go
+* 🧠  I'm learning Solidity, Go, Docker
 * 🤝  I'm open to collaborating on Web/Mobile Development Project | MicroService Project
 * ⚡  I like playing games, music, singing and eating. 🕹️🎸🎤🍿
 
