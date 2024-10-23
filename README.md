@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer, Developer
 --------------------------------
 
-I've been experience in Software Engineer for 5 month now.
+I've been experience in Software Engineer for 1 year and 3 month now.
 
 * 🌍  I'm based in Bangkok Thailand
 * ✉️  You can contact me at [sarathorn.16@gmail.com](mailto:sarathorn.16@gmail.com)
